@@ -1,0 +1,79 @@
+question asked in the gtu exam
+
+1- adjvanced java programming
+
+--ch -1
+        2 markers
+        
+            Differentiate between Local & Remote Applet
+            List out any 4 methods of Applet class
+            List Attributes of <Applet> tag
+            List four methods of an applet. 
+            Explain life cycle of applet with diagram. 
+        
+        3-4 markers
+            Give difference between applet and application.
+            Describe process to design a webpage with <APPLET>tag.
+            Explain life cycle of applet with diagram
+            Write a program in JAVA to draw ten circles in the applet
+            Explain < PARAM >tag in applet using example. 
+            Explain local applet and remote applet. 
+            Explain how to set the background color within the applet area.
+            Write an applet that receives one string and display in reversefashion
+            Write an applet program to draw circle inside square
+            Write an applet to draw a filled circle with red color using fill Oval() method
+            of Graphics class.
+            Write an Applet that reads three numeric values from the keyboard and
+            display even numbers on the screen amongst the three entered values.
+            Write an Applet to display Your name and Your City name usingpassing the parameters to the Applet.
+            Write Advantages and Limitations of an Applet
+            Explain parameter passing in Applet
+            Develop an applet program in java that takes two numeric values from user and display largest among them in screen.
+
+-ch-2
+    
+        -2 markers
+            Explain paint , repaint and update method in applet
+            What is Swing? Explain the need of Swing.
+            Explain the AWT classes hierarchy
+            List out Swing component classes
+            What is Event? Give the name of Event classes.
+            Compare Controls Button and JButton .
+            What is Event? Give the name of Event classes. 
+            List out types of Event class.
+            State why an adapter class is useful.
+            Write the name of class used to create input Dialog box in Java
+        
+        
+        -3 markers
+            Explain KeyListner Interface in detail.
+            Explain panel in java with example.
+            Explain any two Swing controls. 
+            Explain Label control with an example.
+            Explain CheckBox with Example. 
+            Explain RadioButton with Example.
+            Differentiate border layout and flow layout
+            Explain event handling in Java. 
+            Write a Java program to use JTextField Swing Control to display your name.
+            Explain different layout managers in Java.
+            Develop a program that has one button in the frame, clicking on the button cycles through the colors of background: red->green>blue and so on.
+            Explain Mouse Listener
+            Explain ComboBox AWT control in java.
+            Describe MOUSE EVENT and MOUSE LISTENER interface with example. 
+            Write short note in Event Listener
+            Define Frame and state two ways to create a frame
+            State two difference between SWING and AWT.
+            Compare Label and JLabel controls.
+            Explain any three methods of Graphics class.
+            Explain event delegation model.
+            Differentiate checkbox and radio button.
+            Explain Canvas class with example 
+            Explain JComboBox AWT control in java. 
+            Explain JButton AWT control in java.
+            Difference between component and container class in java.
+            Write an applet that contains a check box group with three check   boxes labeled “Red”, “Green” and “Blue”. There is also a 30 x 30-pixel canvas. The selections of the check boxes determine the color of the canvas.
+            Write a java Applet program to demonstrate Action Listener. 
+            Write a program to create a frame with one label in Applet. 
+            Write an Applet that reads three numeric values from the keyboard and display even numbers on the screen amongst the three entered values.
+
+
