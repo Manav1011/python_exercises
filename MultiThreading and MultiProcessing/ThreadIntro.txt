@@ -1,0 +1,13 @@
+Python - Multithreaded Programming
+
+Running several threads is similar to running several different programs concurrently, but with the following benefits −
+
+Multiple threads within a process share the same data space with the main thread and can therefore share information or communicate with each other more easily than if they were separate processes.
+
+Threads sometimes called light-weight processes and they do not require much memory overhead; they are cheaper than processes.
+
+A thread has a beginning, an execution sequence, and a conclusion. It has an instruction pointer that keeps track of where within its context it is currently running.
+
+It can be pre-empted (interrupted)
+
+It can temporarily be put on hold (also known as sleeping) while other threads are running - this is called yielding.
